@@ -70,7 +70,7 @@ body{
 .hr:before{
 	content: '';
 	position: absolute;
-	width: 9px;
+	width: 15px;
 	height: 130px;
 	background: #ff105e;
 	z-index: 10;
@@ -79,7 +79,7 @@ body{
 .mn:before{
 	content: '';
 	position: absolute;
-	width: 5px;
+	width: 9px;
 	height: 170px;
 	background: #000;
 	z-index: 11;
@@ -88,7 +88,7 @@ body{
 .sc:before{
 	content: '';
 	position: absolute;
-	width: 3px;
+	width: 5px;
 	height: 200px;
 	background: #000;
 	z-index: 12;
